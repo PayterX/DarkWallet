@@ -3,7 +3,7 @@
 Install the wallet on Ubuntu with this command:
 
 ```
-$ wget -q -O- https://raw.githubusercontent.com/RojavaCrypto/launderwallet/master/scripts/install.sh | bash
+$ wget -q -O- https://raw.githubusercontent.com/PayterX/DarkWallet/master/scripts/install.sh | bash
 ```
 
 Then it will be available in the launcher.
